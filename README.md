@@ -18,4 +18,3 @@ This is a beginner project where the player has to guess letters of a randomly c
 1. Clone this repository:
    ```bash
    git clone https://github.com/ak1bhasan/hangman-Beginner.git
-   cd hangman
