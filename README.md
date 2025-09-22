@@ -16,4 +16,4 @@ A simple **Hangman** word game built in Python. Perfect for beginners learning l
 ## 🚀 How to Play
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/ak1bhasan/Hangman-Beginner-.git
+   git clone https://github.com/ak1bhasan/Hangman-Beginner.git
